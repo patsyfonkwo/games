@@ -1,5 +1,3 @@
-EMPTY = 0
-
 class Game:
     def __init__(self):
         self.board = Board()
